@@ -4,15 +4,15 @@ Welcome! This repository is a comprehensive, code-driven teaching platform desig
 Whether you are an engineering student trying to survive your majors, preparing for technical quiz shows, or a developer looking to model complex industrial systems, this repo provides the scripts, GUI applications, and simulation files you need.
 
 ## Learning Approach
-This curriculum relies on **ruthless pattern recognition** and active problem-solving. We skip the overly verbose, verbal-heavy textbook explanations and focus straight on what works: reading code, running simulations, and analyzing the waveforms and data outputs until the concepts click.
+This curriculum relies on **pattern recognition** and active problem-solving. We skip the overly verbose, verbal-heavy textbook explanations and focus straight on what works: reading code, running simulations, and analyzing the waveforms and data outputs until the concepts click.
 
 ## The Roadmap
 
 ### Beginner: Foundations & Virtual Labs
 Before controlling industrial systems, we need to master the math and the interface.
 * **MATLAB Basics:** Matrix operations, data types, and script structuring.
-* **DC Circuit Simulation:** Writing scripts to programmatically solve KVL, KCL, and Ohm's Law.
-* **Virtual Laboratories:** Introduction to MATLAB App Designer. We will build standalone GUI-based virtual labs to visualize basic circuit behaviors interactively.
+* **Electronics Simulation:** Writing scripts to programmatically solve KVL, KCL, and Ohm's Law.
+* **Industrial Elex Simulation:** Introduction to MATLAB AScripting and Programming. We will build standalone 3D model-based to visualize mechatronics in industrial field interactively.
 
 ### Intermediate: Signals, Systems, & Power Electronics
 Transitioning from static DC to dynamic systems and industrial components.
